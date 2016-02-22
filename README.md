@@ -1,0 +1,1 @@
+# cwsoft-addon-file-editor
