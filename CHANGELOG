@@ -1,0 +1,4 @@
+CHANGELOG
+
+Vers. 2.7.7
++ function getAddons() works now with info.php, index.php or info.ini
